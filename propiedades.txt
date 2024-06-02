@@ -1,0 +1,13 @@
+src: Define la URL del documento que se mostrará en el frame.
+
+name: Asigna un nombre al frame, lo cual es útil para enlazar a este frame desde otros documentos.
+
+noresize: Evita que el usuario cambie el tamaño del frame.
+
+scrolling: Controla el comportamiento de las barras de desplazamiento. Los valores posibles son yes, no, y auto.
+
+frameborder: Define si se debe mostrar un borde alrededor del frame. Los valores posibles son 0 (sin borde) y 1 (con borde).
+
+marginwidth: Especifica el espacio en píxeles entre el contenido del frame y los bordes izquierdo y derecho del frame.
+
+marginheight: Especifica el espacio en píxeles entre el contenido del frame y los bordes superior e inferior del frame.
